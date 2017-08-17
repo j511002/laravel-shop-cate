@@ -163,7 +163,7 @@ class CateImpl implements Cate
             // 计算深度
             $deep = 1;
             // 计算path
-            $path = $result->id;
+            $path = "," . $result->id;
         }
 
         /*
