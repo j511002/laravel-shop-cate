@@ -6,7 +6,7 @@
  * Time: 下午5:42
  */
 
-namespace SimpleShop\Cate\Repositories;
+namespace SimpleShop\Cate\Repositories\Cate;
 
 
 use SimpleShop\Cate\Models\CommodityCate;
